@@ -72,8 +72,8 @@ Le diagramme a été conçu avec [draw.io (diagrams.net)](https://app.diagrams.n
 
 📄 Le fichier du diagramme est disponible ici :
 
-- `https://drive.google.com/file/d/18fPWHgsc_9mGshnmz2g9KyJOoq2tqebf/view?usp=sharing` (importable sur diagrams.net)
-- `https://dbdiagram.io/d/GYMNASE_DIAGRAMS-67ffa6ff1ca52373f53d83b3` (importable sur dbdiagram.io)
+- https://drive.google.com/file/d/18fPWHgsc_9mGshnmz2g9KyJOoq2tqebf/view?usp=sharing (importable sur diagrams.net)
+- https://dbdiagram.io/d/GYMNASE_DIAGRAMS-67ffa6ff1ca52373f53d83b3 (importable sur dbdiagram.io)
 
 ---
 
